@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! I'm Celso 👋
   <a href="www.linkedin.com/in/celso-rodrigo-monteiro" target="blank">
-    <img src="https://img.shields.io/badge/-celso_rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="celso rodrigo LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="celso rodrigo LinkedIn" />
   </a>
 </h1>
 
