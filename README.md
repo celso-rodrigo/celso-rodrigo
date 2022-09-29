@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="celso rodrigo LinkedIn" />
   </a>
   <a href="mailto:celsorodrigoma@gmail.com">
-    <img src="https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white" alt="celso rodrigo LinkedIn" />
+    <img src="https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white" alt="celso rodrigo Email" />
   </a>
 </h1>
 
@@ -24,5 +24,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Javascript" height="30px">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" height="30px">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" height="30px">
-  <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" alt="Redux" height="30px">
+  <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=4c4cc4" alt="Redux" height="30px">
+  <img src="https://img.shields.io/badge/-ESLINT-05122A?style=flat&logo=eslint&logoColor=4c4cc4" alt="ESLint" height="30px">
 </p>
