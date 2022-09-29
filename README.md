@@ -6,17 +6,17 @@
     <img src="https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white" alt="celso rodrigo Email" />
   </a>
 </h1>
-
+<br>
 <p>I'm a 23 years old web developer from Brazil. Since I was a little kid the internet always bring the things that I love closer to me, now I want to be the one making that possible.</p>
-
+<br>
 <ul>
   <li>🌱 I’m currently learning ... Full Stack Web Development on <a href="https://www.betrybe.com/" alt="Site oficial da Trybe" target="blank">Trybe</a>.</li>
   <li>💬 Ask me about ... Anything. It's always good to talk.</li>
   <li>🇧🇷 I speak... Brazilian portuguese (native) and English (intermediary).</li>
   <li>⚡ Fun fact: The odds of you winning the lottery twice in a row are 1/2, either you do or you don't. 🤡</li>
 </ul>
-
-***
+<br>
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML5" height="30px">
