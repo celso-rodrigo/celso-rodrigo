@@ -2,6 +2,9 @@
   <a href="www.linkedin.com/in/celso-rodrigo-monteiro" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="celso rodrigo LinkedIn" />
   </a>
+  <a href="mailto:celsorodrigoma@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=gmail&logoColor=white" alt="celso rodrigo LinkedIn" />
+  </a>
 </h1>
 
 <p>I'm a 23 years old web developer from Brazil. Since I was a little kid the internet always bring the things that I love closer to me, now I want to be the one making that possible.</p>
