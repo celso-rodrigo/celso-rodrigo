@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="celso rodrigo LinkedIn" />
   </a>
   <a href="mailto:celsorodrigoma@gmail.com">
-    <img src="https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=gmail&logoColor=white" alt="celso rodrigo LinkedIn" />
+    <img src="https://img.shields.io/badge/-Mail-red?style=flat-square&logo=gmail&logoColor=white" alt="celso rodrigo LinkedIn" />
   </a>
 </h1>
 
@@ -12,6 +12,7 @@
 <ul>
   <li>🌱 I’m currently learning ... Full Stack Web Development on <a href="https://www.betrybe.com/" alt="Site oficial da Trybe" target="blank">Trybe</a></li>
   <li>💬 Ask me about ... Anything. It's always good to talk.</li>
+  <li>🇧🇷 I speak... Brazilian portuguese (native) and English (intermediary)</li>
   <li>⚡ Fun fact: The odds of you winning the lottery twice in a row are 1/2, either you do or you don't. 🤡</li>
 </ul>
 
