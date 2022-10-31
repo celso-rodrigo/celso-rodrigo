@@ -17,7 +17,7 @@
 </ul>
 <br>
 <hr>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML5" height="30px">
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" height="30px">
@@ -26,4 +26,6 @@
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" height="30px">
   <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=4c4cc4" alt="Redux" height="30px">
   <img src="https://img.shields.io/badge/-ESLINT-05122A?style=flat&logo=eslint&logoColor=4c4cc4" alt="ESLint" height="30px">
+  <img src="https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js" alt="Node.js" height="30px">
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL" height="30px">
 </p>
