@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Celso 👋
-  <a href="https://www.linkedin.com/in/celso-rodrigo-monteiro" target="_blank">
+  <a href="https://www.linkedin.com/in/celso-rodrigo-monteiro" />
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="celso rodrigo LinkedIn" />
   </a>
   <a href="mailto:celsorodrigoma@gmail.com">
