@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Celso 👋
+<h1 align="center">Olá, Eu sou o Celso Rodrigo! 👋
   <a href="https://www.linkedin.com/in/celso-rodrigo-monteiro" />
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="celso rodrigo LinkedIn" />
   </a>
@@ -7,17 +7,18 @@
   </a>
 </h1>
 <br>
-<p>I'm a 23 years old web developer from Brazil. Since I was a little kid the internet always bring the things that I love closer to me, now I want to be the one making that possible.</p>
+<p>Eu sou um desenvolvedor web front-end natural da Paraíba, tenho 24 anos e desde pequeno sempre fui apaixonado por tecnologia. </p>
+<p>Quando eu era criança passava horas me divertindo com jogos, vídeos e conteúdo online. Sempre amei a área e pensei em trabalhar nela. Em 2022 comecei a transformar esse sonho em realidade.</p>
 <br>
 <ul>
-  <li>🌱 I’m currently learning ... Full Stack Web Development on <a href="https://www.betrybe.com/" alt="Site oficial da Trybe" target="blank">Trybe</a>.</li>
-  <li>💬 Ask me about ... Anything. It's always good to talk.</li>
-  <li>🇧🇷 I speak... Brazilian portuguese (native) and English (intermediary).</li>
-  <li>⚡ Fun fact: The odds of you winning the lottery twice in a row are 1/2, either you do or you don't. 🤡</li>
+  <li>🌱 Estou estudando atualmente... Desenvolvimento web fullstack na <a href="https://www.betrybe.com/" alt="Site oficial da Trybe" target="blank">Trybe</a>.</li>
+  <li>💬 Me pergunte sobre ... Jogos indies, yu-gi-oh, React, linguagens de programação ou qualquer outra coisa!</li>
+  <li>🇧🇷 Eu falo... português, fluentemente e inglês em nível intermediário.</li>
+  <li>⚡ Curiosidade: As chances de ganhar duas vezes seguidas na loteria são de 50%. Ou você ganha ou não. 🤡</li>
 </ul>
 <br>
 <hr>
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Linguagens e Ferramentas:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=25abf2" alt="Visual Studio Code" height="30px">
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML5" height="30px">
