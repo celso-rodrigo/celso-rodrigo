@@ -7,8 +7,10 @@
   </a>
 </h1>
 <br>
+
 <p>Eu sou um desenvolvedor web front-end natural da Paraíba, tenho 24 anos e desde pequeno sempre fui apaixonado por tecnologia. </p>
 <p>Quando eu era criança passava horas me divertindo com jogos, vídeos e conteúdo online. Sempre amei a área e pensei em trabalhar nela. Em 2022 comecei a transformar esse sonho em realidade.</p>
+<p><a href="https://celso-rodrigo.github.io/">Quer saber mais? Então acesso o meu portfólio!</a></p>
 <br>
 <ul>
   <li>🌱 Estou estudando atualmente... Desenvolvimento web fullstack na <a href="https://www.betrybe.com/" alt="Site oficial da Trybe" target="blank">Trybe</a>.</li>
