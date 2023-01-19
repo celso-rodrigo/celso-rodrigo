@@ -34,4 +34,5 @@
   <img src="https://img.shields.io/badge/-ESLINT-05122A?style=flat&logo=eslint&logoColor=4c4cc4" alt="ESLint" height="30px">
   <img src="https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js" alt="Node.js" height="30px">
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL" height="30px">
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" height="30px">
 </p>
