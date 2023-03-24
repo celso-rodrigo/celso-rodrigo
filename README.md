@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" height="30px">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" height="30px">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" height="30px">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" height="30px">
   <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest" height="30px">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" height="30px">
   <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=4c4cc4" alt="Redux" height="30px">
