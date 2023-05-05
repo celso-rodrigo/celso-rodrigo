@@ -13,7 +13,7 @@
 <p><a href="https://celso-rodrigo.github.io/">Quer saber mais? Então acesso o meu portfólio!</a></p>
 <br>
 <ul>
-  <li>🌱 Estou estudando atualmente... React Native e TypeScript</li>
+  <li>🌱 Estou estudando atualmente... React Native e TypeScript.</li>
   <li>💬 Me pergunte sobre ... Jogos indies, yu-gi-oh, React, linguagens de programação ou qualquer outra coisa!</li>
   <li>🇧🇷 Eu falo... português, fluentemente e inglês em nível intermediário/avançado.</li>
   <li>⚡ Curiosidade: As chances de ganhar duas vezes seguidas na loteria são de 50%. Ou você ganha ou não. 🤡</li>
