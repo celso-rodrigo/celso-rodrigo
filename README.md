@@ -8,12 +8,12 @@
 </h1>
 <br>
 <img align="right" height="400" src="https://cdn.discordapp.com/attachments/691351510788866109/1043549814949949440/ChibiCels.png" />
-<p>Eu sou um desenvolvedor web front-end natural da Paraíba, tenho 24 anos e desde pequeno sempre fui apaixonado por tecnologia. </p>
+<p>Eu sou um desenvolvedor web front-end natural da Paraíba, tenho 25 anos e desde pequeno sempre fui apaixonado por tecnologia. </p>
 <p>Quando eu era criança passava horas me divertindo com jogos, vídeos e conteúdo online. Sempre amei a área e pensei em trabalhar nela. Em 2022 comecei a transformar esse sonho em realidade.</p>
 <p><a href="https://celso-rodrigo.github.io/">Quer saber mais? Então acesso o meu portfólio!</a></p>
 <br>
 <ul>
-  <li>🌱 Estou estudando atualmente... React Native e TypeScript.</li>
+  <li>🌱 Estou estudando atualmente... Java.</li>
   <li>💬 Me pergunte sobre ... Jogos indies, yu-gi-oh, React, linguagens de programação ou qualquer outra coisa!</li>
   <li>🇧🇷 Eu falo... português, fluentemente e inglês em nível intermediário/avançado.</li>
   <li>⚡ Curiosidade: As chances de ganhar duas vezes seguidas na loteria são de 50%. Ou você ganha ou não. 🤡</li>
